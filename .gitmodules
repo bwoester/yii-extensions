@@ -1,0 +1,3 @@
+[submodule "filters/ActionParamFilter"]
+	path = filters/ActionParamFilter
+	url = git@github.com:bwoester/yii-action-param-filter.git
