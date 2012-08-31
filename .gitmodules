@@ -1,3 +1,6 @@
 [submodule "filters/ActionParamFilter"]
 	path = filters/ActionParamFilter
 	url = git@github.com:bwoester/yii-action-param-filter.git
+[submodule "behaviors/InstanceofBehavior"]
+	path = behaviors/InstanceofBehavior
+	url = git@github.com:bwoester/yii-instanceof-behavior.git
